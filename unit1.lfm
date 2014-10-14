@@ -1,13 +1,11 @@
 object Form1: TForm1
-  Left = 477
-  Height = 327
-  Top = 198
-  Width = 522
-  Caption = 'TRY OUT YOUR MATH SKILLZ'
-  ClientHeight = 327
-  ClientWidth = 522
-  Font.Height = -13
-  Font.Name = 'Lucida Grande'
+  Left = 326
+  Height = 330
+  Top = 134
+  Width = 519
+  Caption = 'Try Out Your Math Skills'
+  ClientHeight = 330
+  ClientWidth = 519
   LCLVersion = '1.2.4.0'
   object Memo1: TMemo
     Left = 24
