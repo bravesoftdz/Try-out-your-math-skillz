@@ -8,3 +8,5 @@ figure out the answer. Supports multiplication, division,
 addition AND substraction!!! :D Was fun to make.
 
 ### #awesome #programming #skillz #lel
+
+Feel free to fork!
